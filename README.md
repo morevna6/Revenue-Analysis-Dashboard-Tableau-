@@ -54,3 +54,9 @@ It provides insights into monthly trends, regional distribution, and product-lev
 * Revenue peaked in March and dropped sharply in June
 * APAC contributes the highest share in most months
 * Product distribution shows dependency on a few key products
+
+---
+
+## Live Dashboard
+[View Dashboard](https://public.tableau.com/app/profile/g.n.aydo.an/viz/GnAydogan-TableauHomework1-SaaSRevenueAnalysis/MontlyTotalIncome)
+
