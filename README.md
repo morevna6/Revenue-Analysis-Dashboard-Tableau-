@@ -58,5 +58,5 @@ It provides insights into monthly trends, regional distribution, and product-lev
 ---
 
 ## Live Dashboard
-[View Dashboard](https://public.tableau.com/app/profile/g.n.aydo.an/viz/GnAydogan-TableauHomework1-SaaSRevenueAnalysis/MontlyTotalIncome)
+[View Charts](https://public.tableau.com/app/profile/g.n.aydo.an/viz/GnAydogan-TableauHomework1-SaaSRevenueAnalysis/MontlyTotalIncome)
 
