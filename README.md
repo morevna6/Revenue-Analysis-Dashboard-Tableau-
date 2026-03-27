@@ -49,7 +49,7 @@ It provides insights into monthly trends, regional distribution, and product-lev
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 * Revenue peaked in March and dropped sharply in June
 * APAC contributes the highest share in most months
