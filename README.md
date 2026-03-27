@@ -27,19 +27,19 @@ It provides insights into monthly trends, regional distribution, and product-lev
 
 ## Line Chart Preview
 
-![Dashboard](line-chart-radt)
+![Dashboard](line-chart-radt.png)
 
 ---
 
 ## Stacked Bar Chart Preview
 
-![Dashboard](stacked-bar-location-radt)
+![Dashboard](stacked-bar-location-radt.png)
 
 ---
 
 ## Pie Chart Chart Preview
 
-![Dashboard](pie-chart-products-radt)
+![Dashboard](pie-chart-products-radt.png)
 
 ---
 
